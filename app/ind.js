@@ -1,4 +1,5 @@
-      const express = require("express");
+//This java script file is used to run api server , run a path     
+const express = require("express");
       const http = require("http");
       const app = express();
       app.use(express.json());
